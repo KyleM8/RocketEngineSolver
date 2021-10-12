@@ -1,17 +1,18 @@
-#ROCKET ENGINE SOLVER
+# ROCKET ENGINE SOLVER
+
 
 Rocket Engine Solver (RES) is a software project conducted by the Raider Aerospace Society (RAS) of Texas Tech University under the lead of user [KyleM8](https://github.com/KyleM8).
 
 RES will perform  calculations on aspects of rocket engines such as flow rate, nozzle diameter, and thrust. The code is largely based on open-source Java code by NASA as well as other open-source resources. RES adapts the open-source reference code, along with new code, into a C# WPF application for ease-of-use in the design phase of rocket engines.
 
 
-####LICENSE
+#### LICENSE
 
 This software is licensed under the GNU General Public License Version 3 published by the Free Software Foundation, Inc.
-The license is published online [here](https://opensource.org/licenses/GPL-3.0) and a copy of the license is distributed with the software [here](https://github.com/KyleM8/RocketEngineSolver/blob/main/RocketEngineSolver/LICENSE.md).
+The license is published online [here](https://opensource.org/licenses/GPL-3.0) and a copy of the license is distributed with the software [here](/LICENSE.md).
 
 
-####CONTRIBUTING
+#### CONTRIBUTING
 
 This repository uses the fork / pull request / merge system for contributions.
 
